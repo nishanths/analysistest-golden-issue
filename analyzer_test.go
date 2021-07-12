@@ -1,4 +1,4 @@
-package analysistestissue
+package analysistest_golden_issue
 
 import (
 	"testing"
