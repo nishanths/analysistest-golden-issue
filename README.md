@@ -1,5 +1,5 @@
 This repository demonstrates an issue with `analysistest` where `RunWithSuggestedFixes`
-passes even if there is no golden file present.
+passes even if there is no golden file present (or a non-matching golden file present).
 
 https://github.com/golang/go/issues/47128
 
